@@ -1,4 +1,5 @@
-border-radius
+CornerRadius
 =============
 
 Add rounded corners to iOS application.
+
