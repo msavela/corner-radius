@@ -18,6 +18,4 @@ With custom radius:
 [self.window addSubview:[[CornerRadius alloc] initWithRadius:10]];
 ```
 
-Opaque black status bar style is recommended
-
-**NOTE** You need to add CoreGraphics framework to your project.
+**TIP:** Opaque black status bar style is recommended.

@@ -3,7 +3,6 @@
 //
 
 #import "CornerRadius.h"
-#import <QuartzCore/QuartzCore.h>
 
 #define DEFAULT_RADIUS 6
 
